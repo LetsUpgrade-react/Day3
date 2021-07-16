@@ -1,3 +1,11 @@
+<h1>Output</h1>
+
+![image](https://user-images.githubusercontent.com/45985801/125915288-c5ee4ff2-7273-4a92-80a4-c5329e9b9667.png)
+
+<h1>Finding Winner</h1>
+
+![image](https://user-images.githubusercontent.com/45985801/125915383-39a00fda-48fc-46e3-a00f-22c63d3708dc.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
